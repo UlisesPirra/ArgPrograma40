@@ -1,0 +1,30 @@
+p {
+color: red;
+}
+body{
+    background-color: bisque;
+}
+h1 {
+    border: 10px solid grey;
+    margin: 30px;
+    padding: 25px;
+    text-align: center;
+    font-weight: bold;   
+    color: purple;
+}
+section {
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+  }
+
+#usarID{
+    color: blue;
+    font-weight: bold;
+}
+
+.usarClase{
+    font-size: 25px;
+    color: orange;
+}
